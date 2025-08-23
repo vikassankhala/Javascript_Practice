@@ -48,4 +48,4 @@ console.log(ab("vikas")) ;
 
  // all function types by which we can create function but these all 
    // work in same menner so only the form is different 
-             
+             jhnghgbvbfbcgg
